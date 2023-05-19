@@ -30,7 +30,7 @@ background: linear-gradient(180deg, rgba(255,255,255,0) 94%, rgba(110,85,77,1) 9
 .grey-font {color: #3b3b3b;}
 
 
-.marcpic { background-image: url("../images/starter-pic.jpg"); 
+.marcpic { background-image: url("../images/start.jpg"); 
 	background-size: cover; 
 	background-position: center center;
 }
